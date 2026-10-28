@@ -1,54 +1,37 @@
-# Hi, I'm Yan / icn1Vad 👋
+# Kaifeng Yan
 
-I build practical AI-native tools, learning systems, and personal productivity workflows.
+**Full-stack development and practical AI agent applications.**
 
-My current focus is on AI agents, MCP tools, LLM learning, graph neural networks, and multimodal AI.
+I’m a computer science master’s student at **The University of Hong Kong**, with a BEng from **Lanzhou University**. I work across product flows, web interfaces, and agent-system integration. My current core project is **ProofSpace**, an enterprise contract and policy review agent developed with a small technical team.
 
-## What I'm working on
+[Portfolio & technical notes](https://icn1vad.github.io/) · [Public CV](https://icn1vad.github.io/assets/kaifeng-yan-cv.pdf) · [Email](mailto:yankf@163.com)
 
-- Building personal AI agents that connect ChatGPT with structured data and real workflows
-- Exploring MCP / Connector-based tools for productivity and personal knowledge management
-- Learning and experimenting with LLMs, multimodal models, and graph neural networks
-- Turning research notes and small prototypes into reusable open-source templates
+## Selected work
 
-## Featured Projects
+| Project | What to explore |
+| --- | --- |
+| **[ProofSpace frontend](https://github.com/icn1Vad/frontframe)** | Next.js / React interfaces, typed domain ports, task workflows, and integration boundaries. The public snapshot defaults to mock adapters. |
+| **[Aituge Framework](https://github.com/icn1Vad/Aituge-framework)** | Python agent execution, tool registration, local RAG, and task scheduling. |
+| **[ChatGPT Ledger MCP](https://github.com/icn1Vad/chatgpt-ledger-mcp-template)** | A TypeScript template connecting natural-language transactions to structured storage and local exports. |
+| **[GNNShap-to-Cancer](https://github.com/icn1Vad/GNNShap-to-Cancer)** | Undergraduate thesis experiments adapting graph explanations to cancer-related data, with upstream attribution and documented limits. |
+| **[Engineering notes](https://github.com/icn1Vad/ai-learning-research-log)** | My cloud-computing lab records and technical writing. |
 
-### [ChatGPT Ledger MCP Template](https://github.com/icn1Vad/chatgpt-ledger-mcp-template)
+## Current focus
 
-A minimal MCP server template for building a personal bookkeeping Connector for ChatGPT. It supports natural-language expense logging, Supabase storage, CSV / Markdown export, and monthly reports.
+- Product flows and web interfaces for AI applications.
+- Tool calling, context and memory, asynchronous task execution, and evidence alignment.
+- Turning course reports and project experience into technical notes with explicit verification steps and limitations.
 
-### [Personal Ledger Agent](https://github.com/icn1Vad/personal-ledger-agent)
+## Tools I work with
 
-A personal finance agent for recording transactions through ChatGPT and syncing them into local CSV, Markdown, and monthly summaries.
+**Web:** TypeScript / JavaScript, React / Next.js, Vue, REST APIs<br>
+**Services & data:** Python, Java, SQL, FastAPI / Flask, PyTorch / PyG, PySpark<br>
+**Engineering:** Git, Linux / Shell, Docker, SSH, Vitest
 
-### [Personal Website](https://github.com/icn1Vad/icn1Vad.github.io)
+## Technical notes
 
-My academic / project portfolio website, used to organize projects, learning notes, and research interests.
+The first collection revisits my own 2024 coursework: **Ceph, Hadoop / Spark, Kubernetes, and OpenStack**. Articles distinguish historical lab results from edited examples and current reproduction requirements.
 
-### [GNNShap to Cancer](https://github.com/icn1Vad/GNNShap-to-Cancer)
+[Browse the collection →](https://icn1vad.github.io/categories/cloud-computing/)
 
-An exploration of graph neural network explainability methods for biomedical and cancer-related graph analysis.
-
-### [Multimodal Learning Notes](https://github.com/icn1Vad/multimodal)
-
-A learning and experiment repository for multimodal AI, vision-language models, and practical multimodal workflows.
-
-## Tech Interests
-
-```text
-AI Agents · MCP · LLMs · Multimodal AI · Graph Neural Networks
-Python · TypeScript · Supabase · GitHub Pages · Research Notes
-```
-
-## Current Direction
-
-I am especially interested in small, useful AI systems that connect natural language interfaces with structured tools, local files, databases, and personal workflows.
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icn1Vad&show_icons=true&hide_title=true&hide_border=true)
-
-## Contact
-
-- GitHub: [@icn1Vad](https://github.com/icn1Vad)
-- Website: [icn1Vad.github.io](https://icn1Vad.github.io)
+I’m open to **full-stack, AI agent application, and AI product internships**. Project case studies describe my contribution separately from the team’s overall system.
